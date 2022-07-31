@@ -1,0 +1,24 @@
+{
+    "connection": {
+        "moonraker_socket_url": "ws://127.0.0.1/websocket",
+        "moonraker_url": "http://127.0.0.1",
+        "moonraker_token": "",
+        "bot_token": "",
+        "bot_application_id": "998326333341974639",
+        "bot_application_key": "4a609a8c1e2ba630c208b68b5fc71ec109ca91f8e993e399355cf1a669d689db"
+    },
+    "language": {
+        "messages": "en",
+        "command_syntax": "en",
+        "buttons_use_syntax_locale": false
+    },
+    "permission": {
+        "controllers": {
+            "roles": "",
+            "users": ""
+        }
+    },
+    "webcam": {
+        "url": "http://127.0.0.1/webcam/?action=snapshot"
+    }
+}
