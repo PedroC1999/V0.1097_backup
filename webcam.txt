@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 1920*1080 -f 30 -d /dev/v4l/by-id/usb-PC-LM1E_PC-LM1E_PC-LM1E-video-index0
